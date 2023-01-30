@@ -1,0 +1,167 @@
+.center{
+    position: relative;
+  }
+  .blur{
+    filter: blur(10px);
+  }
+  .first{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+  }
+  
+.head{
+    text-align: center;
+}
+.button {
+    background-image:linear-gradient(blue,white) ;
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: auto;
+    width: fit-content;
+    
+  }
+  span{
+    color: burlywood;
+  }
+.text{
+    text-align: center;
+}
+.money{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.one{
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px rgb(59, 57, 59);
+    border: solid black;
+ 
+}
+.two{
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px rgb(80, 78, 80);
+    border: solid rgb(239, 19, 19);
+    background-color: rgb(236, 185, 185);
+}
+.three{
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px rgb(94, 88, 94);
+    border: solid black;
+    }
+.four{
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px rgb(76, 73, 76);
+    border: solid black;
+}
+.five{
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px rgb(93, 89, 93);
+    border: solid black;
+}
+.tk{
+    text-align: center;
+    display: grid;
+
+}
+.input{
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: dashed;
+    background-color: rgb(193, 198, 198);
+
+}
+.in{
+    margin-bottom: 10px;
+}
+.button2 {
+    background-image:linear-gradient(white,blue) ;
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: auto;
+    width: fit-content;
+
+}
+.plan{
+    color: lightsalmon;
+
+}
+.plan1{
+    text-align: center;
+}
+.box{
+    display: flex;
+    
+}
+.first-box{
+    border: solid 2px black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px gray;
+    margin: 3%;
+    width: 30%;
+    text-align: center;
+    background-color: rgb(248, 243, 244);
+    
+}
+
+.lives-depend{
+    display: flex;
+    margin-bottom: 100px;
+    margin: 100px;
+}
+.lives-depend-text{
+    width: 50%;
+}
+.lives-depend-img{
+    width: 10%;
+}
+span{
+    font-weight: 800;
+    color: coral;
+}
+.lives-depend-img2{
+    width: 90%;
+}
+.last{
+    text-align: center;
+}
+.last-box{
+    text-align: center;
+    border: solid 2px rgb(225, 199, 151);
+    padding: 20px;
+    background-color: bisque;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
