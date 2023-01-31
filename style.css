@@ -55,8 +55,7 @@
     margin-right: 2%;
     padding: 5%;
     box-shadow: 10px 10px 30px rgb(80, 78, 80);
-    border: solid rgb(239, 19, 19);
-    background-color: rgb(236, 185, 185);
+    border: solid black;
 }
 .three{
     width: 15%;
@@ -164,4 +163,39 @@ footer{
     text-align: center;
     background-color: black;
     color: aliceblue;
+}
+.one:hover{
+    border-color: chocolate;
+    color: coral;
+    background-color: rgb(243, 176, 152);
+    box-shadow: 5px 5px 15px rgb(59, 53, 45);
+}
+.four:hover{
+    border-color: chocolate;
+    color: coral;
+    background-color: rgb(243, 176, 152);
+    box-shadow: 5px 5px 15px rgb(59, 53, 45);
+}
+.two:hover{
+    border-color: chocolate;
+    color: coral;
+    background-color: rgb(243, 176, 152);
+    box-shadow: 5px 5px 15px rgb(59, 53, 45);
+}
+.three:hover{
+    border-color: chocolate;
+    color: coral;
+    background-color: rgb(243, 176, 152);
+    box-shadow: 5px 5px 15px rgb(59, 53, 45);
+}
+.five:hover{
+    border-color: chocolate;
+    color: coral;
+    background-color: rgb(243, 176, 152);
+    box-shadow: 5px 5px 15px rgb(59, 53, 45);
+}
+.input:focus{
+    font-weight: 800;
+    color: rgb(204, 215, 215);
+    background-color: rgb(29, 36, 36);
 }
